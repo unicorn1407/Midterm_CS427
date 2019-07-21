@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: fb11d2a0468e2f54d8361b0273760751
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7128094661807444951
+    second: ElevatorHulkXbot_0
+  - first:
+      213: 2211942969445412865
+    second: ElevatorHulkXbot_1
+  - first:
+      213: -7965189639434932506
+    second: ElevatorHulkXbot_2
+  - first:
+      213: 4980537428882428884
+    second: ElevatorHulkXbot_3
+  - first:
+      213: -6598980574170905002
+    second: ElevatorHulkXbot_4
+  - first:
+      213: 2348813224140781269
+    second: ElevatorHulkXbot_5
+  - first:
+      213: 5486781370645068021
+    second: ElevatorHulkXbot_6
+  - first:
+      213: 7998079716163719818
+    second: ElevatorHulkXbot_7
+  - first:
+      213: 8400918757550759213
+    second: ElevatorHulkXbot_8
+  - first:
+      213: -6966929358658346236
+    second: ElevatorHulkXbot_9
+  - first:
+      213: -1133188712275964300
+    second: ElevatorHulkXbot_10
+  - first:
+      213: -8161228855187438560
+    second: ElevatorHulkXbot_11
+  - first:
+      213: -4008202893566302466
+    second: ElevatorHulkXbot_12
+  - first:
+      213: -2771880085888575363
+    second: ElevatorHulkXbot_13
+  - first:
+      213: 4022700851309346420
+    second: ElevatorHulkXbot_14
+  - first:
+      213: -9202239022249881113
+    second: ElevatorHulkXbot_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ElevatorHulkXbot_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 97
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb1e92030cffb748b80edd4b99a846a
+      internalID: 7128094661807444951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorHulkXbot_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 97
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c9f13f06bb4a240ada868821cd86fb
+      internalID: 2211942969445412865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorHulkXbot_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 98
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73934015629689f48be7b0b1bd055f7e
+      internalID: -7965189639434932506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorHulkXbot_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 98
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f473b7d9ad9ca714789e985ed1d23d98
+      internalID: 4980537428882428884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorHulkXbot_4
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 67
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40302622fb17a994c924780aa7b0c7a8
+      internalID: -6598980574170905002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorHulkXbot_5
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 68
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecf95a282a700f448da29711a13e35c
+      internalID: 2348813224140781269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorHulkXbot_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 56
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52c65b538bf316468924b001e31a973
+      internalID: 5486781370645068021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorHulkXbot_7
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 57
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f31a02f6607b24468eed293be32137c
+      internalID: 7998079716163719818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorHulkXbot_8
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 57
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cd28f90a548af42a7d306d022c77b2
+      internalID: 8400918757550759213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorHulkXbot_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 77
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c32d5a35af4f344b17f29e340a80bb
+      internalID: -6966929358658346236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorHulkXbot_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 6
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1f79c7b322964448d2dd34d4894779
+      internalID: -1133188712275964300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorHulkXbot_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 5
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24c5f6134b5a184f997d0b8334db043
+      internalID: -8161228855187438560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorHulkXbot_12
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 5
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530ca91f8b2b2c04287b63a54c1b4207
+      internalID: -4008202893566302466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorHulkXbot_13
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 7
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1944e1f4d5ae4d04b84723229417f77a
+      internalID: -2771880085888575363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorHulkXbot_14
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 8
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bf09fc576d25a48a9b82a597c9592c
+      internalID: 4022700851309346420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorHulkXbot_15
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 10
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db6046757617c3488c6e97563907945
+      internalID: -9202239022249881113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9e2b8fc4e3254f04cb8aa4c14987582b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,605 @@
+fileFormatVersion: 2
+guid: b0ba7019eb9179e4790c7f2c4e960b86
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3681965250000524289
+    second: mmm-mmx3sabrepro_0
+  - first:
+      213: 4614256278784930256
+    second: mmm-mmx3sabrepro_1
+  - first:
+      213: 3508652384737191823
+    second: mmm-mmx3sabrepro_2
+  - first:
+      213: -180246727650643969
+    second: mmm-mmx3sabrepro_3
+  - first:
+      213: 2466332867254158848
+    second: mmm-mmx3sabrepro_4
+  - first:
+      213: -7764180314711345642
+    second: mmm-mmx3sabrepro_5
+  - first:
+      213: 2828420221694951545
+    second: mmm-mmx3sabrepro_6
+  - first:
+      213: 304484174762783136
+    second: mmm-mmx3sabrepro_7
+  - first:
+      213: -8663015314414024273
+    second: mmm-mmx3sabrepro_8
+  - first:
+      213: 527625765908645168
+    second: mmm-mmx3sabrepro_9
+  - first:
+      213: 2592400880412257796
+    second: mmm-mmx3sabrepro_10
+  - first:
+      213: -297141866805807806
+    second: mmm-mmx3sabrepro_11
+  - first:
+      213: 5056556728469155222
+    second: mmm-mmx3sabrepro_12
+  - first:
+      213: -912816757674669317
+    second: mmm-mmx3sabrepro_13
+  - first:
+      213: -2632258635650839634
+    second: mmm-mmx3sabrepro_14
+  - first:
+      213: 2668950544742559042
+    second: mmm-mmx3sabrepro_15
+  - first:
+      213: -208099170147629953
+    second: mmm-mmx3sabrepro_16
+  - first:
+      213: -5477166564690777328
+    second: mmm-mmx3sabrepro_17
+  - first:
+      213: -842075514318530854
+    second: mmm-mmx3sabrepro_18
+  - first:
+      213: -6893755262808444384
+    second: mmm-mmx3sabrepro_19
+  - first:
+      213: 8561749132250239795
+    second: mmm-mmx3sabrepro_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mmm-mmx3sabrepro_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 51
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28072d7d0265994aa350a9ba36de113
+      internalID: 3681965250000524289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx3sabrepro_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 51
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54606781b67f20a4ba3cccf4e43b04b9
+      internalID: 4614256278784930256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx3sabrepro_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 54
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657f038b8b647b34ba7adb5ba61fe091
+      internalID: 3508652384737191823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx3sabrepro_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 56
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c21b43c44d55ac49b1a0f0bf0c33f2e
+      internalID: -180246727650643969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx3sabrepro_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 71
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9a9596e77710a49aa2c64571379d64
+      internalID: 2466332867254158848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx3sabrepro_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 71
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576526dbca114e64faaf4c2b601c080a
+      internalID: -7764180314711345642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx3sabrepro_6
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 77
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4275f1e52f41cb4fa4aed64b5512494
+      internalID: 2828420221694951545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx3sabrepro_7
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 77
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83a46600bd3a6b4eb35a22610b4f723
+      internalID: 304484174762783136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx3sabrepro_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51032776141387644beb9a4266c8fca2
+      internalID: -8663015314414024273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx3sabrepro_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad492ac0301cead41b7dc5d4ec866c7c
+      internalID: 527625765908645168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx3sabrepro_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 54
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3982ac07ea6b05d4fbadbfd619a510a2
+      internalID: 2592400880412257796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx3sabrepro_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 54
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1215c6b1b0bac4ba331b2343519140
+      internalID: -297141866805807806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx3sabrepro_12
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87093427dbec52e4aad7f5f782b12d3b
+      internalID: 5056556728469155222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx3sabrepro_13
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f260ac9debeeb44ae7348eee3dd867
+      internalID: -912816757674669317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx3sabrepro_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 18
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1557afae956974b97122c312f600a3
+      internalID: -2632258635650839634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx3sabrepro_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 18
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c0d85b57c663d41bee06ad14ec05f2
+      internalID: 2668950544742559042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx3sabrepro_16
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 18
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eef0403eecdbb44a81e83219525d469
+      internalID: -208099170147629953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx3sabrepro_17
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 8
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3f9034d84051b4587db6acc452c749
+      internalID: -5477166564690777328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx3sabrepro_18
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 6
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30102115a76af940be7377784268a53
+      internalID: -842075514318530854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx3sabrepro_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 10
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498ff3adf5ef5b34f892181f92891aad
+      internalID: -6893755262808444384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx3sabrepro_20
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 15
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f046ab5f4c97e764d888d0ed22f3cd4e
+      internalID: 8561749132250239795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cfd3c6ecab866034a98fb4544de2b287
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

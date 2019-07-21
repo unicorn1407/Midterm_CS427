@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: 4db8652b4d422b54088deb9826d123a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6122883420262510458
+    second: x6zeroshoenzan_0
+  - first:
+      213: 4381956029701658169
+    second: x6zeroshoenzan_1
+  - first:
+      213: -5547559872776859509
+    second: x6zeroshoenzan_2
+  - first:
+      213: -7390166724943052547
+    second: x6zeroshoenzan_3
+  - first:
+      213: -6823712726566921022
+    second: x6zeroshoenzan_4
+  - first:
+      213: -3823045010827843007
+    second: x6zeroshoenzan_5
+  - first:
+      213: 7027813152657547338
+    second: x6zeroshoenzan_6
+  - first:
+      213: 8986637711302162719
+    second: x6zeroshoenzan_7
+  - first:
+      213: -6166661507128947343
+    second: x6zeroshoenzan_8
+  - first:
+      213: -9144362670665268194
+    second: x6zeroshoenzan_9
+  - first:
+      213: -8971566260535042048
+    second: x6zeroshoenzan_10
+  - first:
+      213: 2229798802287428855
+    second: x6zeroshoenzan_11
+  - first:
+      213: -187283992362504685
+    second: x6zeroshoenzan_12
+  - first:
+      213: 5047124388331188980
+    second: x6zeroshoenzan_13
+  - first:
+      213: -5566889507313359759
+    second: x6zeroshoenzan_14
+  - first:
+      213: -7078159119903059885
+    second: x6zeroshoenzan_15
+  - first:
+      213: -3919733596964946821
+    second: x6zeroshoenzan_16
+  - first:
+      213: -5662094160758801530
+    second: x6zeroshoenzan_17
+  - first:
+      213: 6047459595912610880
+    second: x6zeroshoenzan_18
+  - first:
+      213: -8478713394794897737
+    second: x6zeroshoenzan_19
+  - first:
+      213: -1171158441816582529
+    second: x6zeroshoenzan_20
+  - first:
+      213: -6334924539245647488
+    second: x6zeroshoenzan_21
+  - first:
+      213: -7093351399196456426
+    second: x6zeroshoenzan_22
+  - first:
+      213: 6668191250559224756
+    second: x6zeroshoenzan_23
+  - first:
+      213: -3422263106620518748
+    second: x6zeroshoenzan_24
+  - first:
+      213: 7347764323892276999
+    second: x6zeroshoenzan_25
+  - first:
+      213: -2532658928050336346
+    second: x6zeroshoenzan_26
+  - first:
+      213: -1922743591820904381
+    second: x6zeroshoenzan_27
+  - first:
+      213: 4743607779279229022
+    second: x6zeroshoenzan_28
+  - first:
+      213: 5134044980442628604
+    second: x6zeroshoenzan_29
+  - first:
+      213: 5314776287388565271
+    second: x6zeroshoenzan_30
+  - first:
+      213: 1168156018160964983
+    second: x6zeroshoenzan_31
+  - first:
+      213: -7653445606572270707
+    second: x6zeroshoenzan_32
+  - first:
+      213: 8351668457514582449
+    second: x6zeroshoenzan_33
+  - first:
+      213: -132513051924433523
+    second: x6zeroshoenzan_34
+  - first:
+      213: 1010887027667646487
+    second: x6zeroshoenzan_35
+  - first:
+      213: 4033177717300875235
+    second: x6zeroshoenzan_36
+  - first:
+      213: -1113737263558682526
+    second: x6zeroshoenzan_37
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: x6zeroshoenzan_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 145
+        width: 76
+        height: 144
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf37b12f54b653409d8e5b933370787
+      internalID: 6122883420262510458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x6zeroshoenzan_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 144
+        width: 80
+        height: 144
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d797382a2cd50864f9976f91b4be3ddf
+      internalID: 4381956029701658169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x6zeroshoenzan_2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 144
+        width: 94
+        height: 144
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da815c55c17ea994b801a7ba11ab9fb2
+      internalID: -5547559872776859509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x6zeroshoenzan_3
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 144
+        width: 90
+        height: 144
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954c2a5712bb27844abf92438b45bf46
+      internalID: -7390166724943052547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x6zeroshoenzan_4
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 144
+        width: 88
+        height: 144
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e543816777cbf47a2e5dc26152ad47
+      internalID: -6823712726566921022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x6zeroshoenzan_5
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 144
+        width: 96
+        height: 144
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2122e0084cf27344bf83dcbdb8163cf
+      internalID: -3823045010827843007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x6zeroshoenzan_6
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 144
+        width: 97
+        height: 144
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e7502a8d3f2064bba7553514155ce7
+      internalID: 7027813152657547338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x6zeroshoenzan_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 91
+        height: 144
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f030720b04d77b4cb70dd5e8dc3243b
+      internalID: 8986637711302162719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x6zeroshoenzan_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 97
+        height: 144
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b27d1aeefe34044b4661be1a523022
+      internalID: -6166661507128947343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x6zeroshoenzan_9
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 97
+        height: 144
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7622850166dadb345b3231ffe6bd6c1b
+      internalID: -9144362670665268194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x6zeroshoenzan_10
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0
+        width: 98
+        height: 144
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f4e8a8d1c79cd44a28765bc9e3c89c
+      internalID: -8971566260535042048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x6zeroshoenzan_11
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 0
+        width: 97
+        height: 144
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ef65659475f84479823d1f5dcbd914
+      internalID: 2229798802287428855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x6zeroshoenzan_12
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 0
+        width: 89
+        height: 144
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557d567a72c3396408e392a1b22d4a63
+      internalID: -187283992362504685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x6zeroshoenzan_13
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 0
+        width: 89
+        height: 144
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d5f0a3fa28d50469990951726fae66
+      internalID: 5047124388331188980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c2446946b05bb7243bc127aea0559c2d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1388 @@
+fileFormatVersion: 2
+guid: 707540c6a8ff84640911cbb0051cc8cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2773780174480918935
+    second: x4DoubleCyclone_0
+  - first:
+      213: -9094151858125766042
+    second: x4DoubleCyclone_1
+  - first:
+      213: 2401666384965832300
+    second: x4DoubleCyclone_2
+  - first:
+      213: 7324454570136740939
+    second: x4DoubleCyclone_3
+  - first:
+      213: -6243400809675835369
+    second: x4DoubleCyclone_4
+  - first:
+      213: 8085787348312267273
+    second: x4DoubleCyclone_5
+  - first:
+      213: -1686662495177200006
+    second: x4DoubleCyclone_6
+  - first:
+      213: -6847587506935053689
+    second: x4DoubleCyclone_7
+  - first:
+      213: 7791124022721314664
+    second: x4DoubleCyclone_8
+  - first:
+      213: -6840368841791205402
+    second: x4DoubleCyclone_9
+  - first:
+      213: -4966886936234361865
+    second: x4DoubleCyclone_10
+  - first:
+      213: 411079191608510157
+    second: x4DoubleCyclone_11
+  - first:
+      213: -3685995252069516565
+    second: x4DoubleCyclone_12
+  - first:
+      213: -2592666014035378779
+    second: x4DoubleCyclone_13
+  - first:
+      213: -3108077779928712390
+    second: x4DoubleCyclone_14
+  - first:
+      213: -2387230014276234817
+    second: x4DoubleCyclone_15
+  - first:
+      213: -6907373787517064121
+    second: x4DoubleCyclone_16
+  - first:
+      213: 7218050912297966584
+    second: x4DoubleCyclone_17
+  - first:
+      213: 8650569011695561549
+    second: x4DoubleCyclone_18
+  - first:
+      213: 2488934849283599015
+    second: x4DoubleCyclone_19
+  - first:
+      213: -5749335711981860780
+    second: x4DoubleCyclone_20
+  - first:
+      213: 4150412067130793636
+    second: x4DoubleCyclone_21
+  - first:
+      213: 7642241123194205409
+    second: x4DoubleCyclone_22
+  - first:
+      213: 2356159086714610527
+    second: x4DoubleCyclone_23
+  - first:
+      213: -116195580783439626
+    second: x4DoubleCyclone_24
+  - first:
+      213: 4564681880387118445
+    second: x4DoubleCyclone_25
+  - first:
+      213: 437266847118592863
+    second: x4DoubleCyclone_26
+  - first:
+      213: 104437770884212662
+    second: x4DoubleCyclone_27
+  - first:
+      213: -6900290753407766988
+    second: x4DoubleCyclone_28
+  - first:
+      213: 6484522086932932325
+    second: x4DoubleCyclone_29
+  - first:
+      213: -7190902390983030563
+    second: x4DoubleCyclone_30
+  - first:
+      213: 3594337041869582934
+    second: x4DoubleCyclone_31
+  - first:
+      213: 907148586700715502
+    second: x4DoubleCyclone_32
+  - first:
+      213: -1641125048947706272
+    second: x4DoubleCyclone_33
+  - first:
+      213: -6518845345067435287
+    second: x4DoubleCyclone_34
+  - first:
+      213: -9174296237243605921
+    second: x4DoubleCyclone_35
+  - first:
+      213: -2134509412907375891
+    second: x4DoubleCyclone_36
+  - first:
+      213: -6397865539262428511
+    second: x4DoubleCyclone_37
+  - first:
+      213: -2337488042553599165
+    second: x4DoubleCyclone_38
+  - first:
+      213: -5697990805167700040
+    second: x4DoubleCyclone_39
+  - first:
+      213: 6376519862467995241
+    second: x4DoubleCyclone_40
+  - first:
+      213: -6678366175721468476
+    second: x4DoubleCyclone_41
+  - first:
+      213: -1458936312467215856
+    second: x4DoubleCyclone_42
+  - first:
+      213: 4984505588939930853
+    second: x4DoubleCyclone_43
+  - first:
+      213: 4258527941623927979
+    second: x4DoubleCyclone_44
+  - first:
+      213: 5264042468400848480
+    second: x4DoubleCyclone_45
+  - first:
+      213: 714056316653258689
+    second: x4DoubleCyclone_46
+  - first:
+      213: 2421122811508018274
+    second: x4DoubleCyclone_47
+  - first:
+      213: 5725332812125146657
+    second: x4DoubleCyclone_48
+  - first:
+      213: -7343484346957377910
+    second: x4DoubleCyclone_49
+  - first:
+      213: 5416999147217238102
+    second: x4DoubleCyclone_50
+  - first:
+      213: 8780714320246109283
+    second: x4DoubleCyclone_51
+  - first:
+      213: 8637640609248426613
+    second: x4DoubleCyclone_52
+  - first:
+      213: -6078953353646760571
+    second: x4DoubleCyclone_53
+  - first:
+      213: -3009467259526577640
+    second: x4DoubleCyclone_54
+  - first:
+      213: 910964409167290220
+    second: x4DoubleCyclone_55
+  - first:
+      213: 2556397781041725434
+    second: x4DoubleCyclone_56
+  - first:
+      213: -969373968383734097
+    second: x4DoubleCyclone_57
+  - first:
+      213: -1907604969261700593
+    second: x4DoubleCyclone_58
+  - first:
+      213: -4878935320433034937
+    second: x4DoubleCyclone_59
+  - first:
+      213: -5343653304643543460
+    second: x4DoubleCyclone_60
+  - first:
+      213: -841782394840597946
+    second: x4DoubleCyclone_61
+  - first:
+      213: 181916132278766724
+    second: x4DoubleCyclone_62
+  - first:
+      213: -5126707791665329979
+    second: x4DoubleCyclone_63
+  - first:
+      213: 5373963088590070646
+    second: x4DoubleCyclone_64
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: x4DoubleCyclone_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 282
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc971326f68a2f341a22ccadc4ba9c89
+      internalID: 2773780174480918935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 282
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e327193588b3e4da6795064bfeda58
+      internalID: -9094151858125766042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 282
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b44c9e0502e2a54a97b6fb26b92831e
+      internalID: 2401666384965832300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 282
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a5c2345c1a39145baf1f6795298a5e
+      internalID: 7324454570136740939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 282
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c471ef7a4ea534fa694a3ee320f07a
+      internalID: -6243400809675835369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 282
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89507a6ae5ebd804483b4e5ed0bfc119
+      internalID: 8085787348312267273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_6
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 282
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eea87824bcb8dd45be9bed4d1363e3b
+      internalID: -1686662495177200006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_7
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 282
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998881476d380f74b9dc588c1826a481
+      internalID: -6847587506935053689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_8
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 232
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f611e3bd5d487a4c9322bddc7df2a7c
+      internalID: 7791124022721314664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 232
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368602fa78168ec44968054fd96afd52
+      internalID: -6840368841791205402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 232
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4531b58fe614bf94a9891dc6d54fea2b
+      internalID: -4966886936234361865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_11
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 232
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84676b8c02f782e4b9eacbd027b84e26
+      internalID: 411079191608510157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_12
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 232
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ca5d73923fef44f9b767775366401d
+      internalID: -3685995252069516565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_13
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 232
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a326f1b744fc7a49b72c5e8a3ad7694
+      internalID: -2592666014035378779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_14
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 232
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b125a8a531fa047af4c198e9403d51
+      internalID: -3108077779928712390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_15
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 232
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafe5fa3a946772459b6aedb17fa0a6b
+      internalID: -2387230014276234817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_16
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 179
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ec4187d439634488af0ed163af05ff
+      internalID: -6907373787517064121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_17
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 179
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063645ccefb154945826d926e4e9c7df
+      internalID: 7218050912297966584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_18
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 179
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f85b0af5bdd9e6498189ea424194865
+      internalID: 8650569011695561549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_19
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 179
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b90242b8269afc4bbd70b5c3e9ca827
+      internalID: 2488934849283599015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e356cc8c6ab4d54aab797871be4f69b
+      internalID: -5749335711981860780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_22
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 131
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada8330313c41f846adc8158f5bcb646
+      internalID: 7642241123194205409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_23
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 137
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcbc88e4521ccc418a2ee3db1f9d01e
+      internalID: 2356159086714610527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_25
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 127
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495eff686b96b46458322c765beff6da
+      internalID: 4564681880387118445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_26
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 134
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decc51d637f11c947a857191981c80d6
+      internalID: 437266847118592863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 133
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0828f680bc15dc4ba14577c3cbc9628
+      internalID: 6484522086932932325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_31
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 140
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95809dd837311b64f9737c3519c624d6
+      internalID: 3594337041869582934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_32
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 131
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9facdaf9efec3e348915b5441baa7c73
+      internalID: 907148586700715502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_34
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 143
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bc147a62de19b47b252c7f07deac3f
+      internalID: -6518845345067435287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_35
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 127
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3359a0430ac96c49bb60e2c10ea678a
+      internalID: -9174296237243605921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_36
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 145
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28caa4286003c343aa85c6b126015c2
+      internalID: -2134509412907375891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_38
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 131
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744bf79476fd6d34eaf1a52525dcedc2
+      internalID: -2337488042553599165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_40
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 125
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc684b5cdf6fed0439f2d1782d08e05c
+      internalID: 6376519862467995241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_43
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 98
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789825e1cacb44248b601d2a2bc2b2b5
+      internalID: 4984505588939930853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_44
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 77
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8fec500602bbd4294ec1264a09477b
+      internalID: 4258527941623927979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 89
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879c3add2e9447e408c03207ccc65a36
+      internalID: 5264042468400848480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_48
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 91
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31144fcf0ea783645a275c31b1b7ea2f
+      internalID: 5725332812125146657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_50
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 77
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7daaa40eb298b554bb74487b961dcf52
+      internalID: 5416999147217238102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_51
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 0
+        width: 28
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76321944aa18af4eacf76766d01c703
+      internalID: 8780714320246109283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_52
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1
+        width: 24
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f5a1edcf9976a4783a4c34ce269fc6
+      internalID: 8637640609248426613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_53
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 10
+        width: 21
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5816738a905106f46b7a289c101d315d
+      internalID: -6078953353646760571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_54
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 8
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72c77ad8fca94a4a82758018434949c
+      internalID: -3009467259526577640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 34
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81356b4a875e3624eb9fee3c8011b1e9
+      internalID: 910964409167290220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_56
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 37
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dfaeaeaf58b1f4ba17cc61f574464a
+      internalID: 2556397781041725434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_57
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 42
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5554249b5cf5da4aa656dc71a4c7186
+      internalID: -969373968383734097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_58
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 9
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80268d3ba3e3074192c0f3751afc916
+      internalID: -1907604969261700593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_59
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 37
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd1e696cfa95e241b90f1bc8a1e0975
+      internalID: -4878935320433034937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_60
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 34
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b93257c33e304c47b664005b6e704c1
+      internalID: -5343653304643543460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_61
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 9
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb9bbbb9043cad4dabfb4c10ee15946
+      internalID: -841782394840597946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_62
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 21
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b1b520a15cfc94f871f7d02ed1c7f9
+      internalID: 181916132278766724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_63
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 17
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f05025c39b95e449cc4754e311d5a9
+      internalID: -5126707791665329979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4DoubleCyclone_64
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 16
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7ca3cd869e1104281847dbb81d80f1
+      internalID: 5373963088590070646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d35b0e338fd79cd45b5a191deed7c3e9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
